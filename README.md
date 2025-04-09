@@ -1,6 +1,9 @@
 # hadoop_examples
 Hadoop examples for Herramientas Avanzadas para el Manejo de Grandes Volumenes de datos course teaching at UNRC
 
+## Prerequisitos
+Tener instalado Docker Desktop
+
 ## Referencias
 Tomamos la estructura de **dockek-hadoop** de [https://github.com/big-data-europe/docker-hadoop](https://github.com/big-data-europe/docker-hadoop) 
 
